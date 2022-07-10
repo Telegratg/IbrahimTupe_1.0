@@ -7,9 +7,9 @@
 
     <!-- CSS  -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-    <link href="css/loader.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/css/loader.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <script>
         window.loading = true;
     </script>
@@ -122,17 +122,17 @@
 <div id="order" style="display: none;"></div>
 <div id="token_similar" style="display: none;"></div>
 <!--  Scripts-->
-<script src="js/jquery-3.5.1.min.js"></script>
-<script src="js/materialize.min.js"></script>
-<script src="./settings.js"></script>
-<script src="js/numeral.js"></script>
-<script src="js/hash.js"></script>
-<script src="js/appsgeyserJS.js"></script>
-<script src="js/localstorage.js"></script>
-<script src="js/all_function.js"></script>
-<script src="js/ajaxYoutube.js"></script>
-<script src="js/createHtml.js"></script>
-<script src="js/youtube.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/jquery-3.5.1.min.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/materialize.min.js"></script>
+<script src="file:///storage/emulated/0/تطبيقاتي/IbrahimTupe_1.0/assets/zip_18618066/settings.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/numeral.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/hash.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/appsgeyserJS.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/localstorage.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/all_function.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/ajaxYoutube.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/createHtml.js"></script>
+<script src="https://github.com/Telegratg/IbrahimTupe_1.0/raw/master/assets/zip_18618066/js/youtube.js"></script>
 <div id="temp" style="display: none"></div>
 <div class="hiddendiv common"></div>
 </body>
